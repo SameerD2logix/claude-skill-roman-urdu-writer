@@ -60,4 +60,4 @@ pip install pytest && pytest -q
 
 ## Author
 
-**Sameer Hussain**, [D2Logix](https://d2logix.com). AI automation for Pakistani businesses.
+**Sameer Hussain** · [LinkedIn](https://www.linkedin.com/in/sameer-hussain-87368a164) · [D2Logix](https://d2logix.com). AI automation for Pakistani businesses.
